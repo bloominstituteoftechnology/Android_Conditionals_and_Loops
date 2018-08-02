@@ -17,7 +17,7 @@ Submit through repl.it.
 
 ## Part 2
 ### Location
-https://docs.google.com/forms/d/e/1FAIpQLSf3MjV4dtQuXnRAsubpKmRDlSVUnyaxvLiwndUEVk55GPksmQ/viewform?usp=sf_link
+https://goo.gl/forms/IOHMbWodAQlUAZxK2
 
 ### Instructions
 1. Answer all the (multiple answer) questions in the form
