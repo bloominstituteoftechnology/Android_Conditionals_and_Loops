@@ -2,7 +2,7 @@
 
 ## Part 1
 ### Location
-https://repl.it/teacher/assignments/1122445
+Module 3 - Conditionals and Loops assignment found in the classroom [here](https://repl.it/classroom/invite/V2RyVcB)
 
 ### Instructions
 1. Write code that follows the instructions in each of the code blocks (between the {} braces)
